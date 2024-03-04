@@ -7,4 +7,4 @@
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 
 > [!NOTE]
-> [Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl)
+ [Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl)
