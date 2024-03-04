@@ -1,6 +1,4 @@
 ## Maria Salazar
-Desarrollo de aplicaciones
----
 
 ### CONTACTO
 **Contacto por mensajería**
