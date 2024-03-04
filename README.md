@@ -1,7 +1,5 @@
 ## Maria Salazar
 
-### CONTACTO
-
 - Desarrollo Frontend (HTML, CSS, JavaScript)
 - Experiencia en Control de Versiones (Git)
 - Programación Nivel Junior | ```Java```
