@@ -5,7 +5,7 @@
 - Experiencia en Control de Versiones (Git)
 - Programación Nivel Junior | ```Java``` ```C#``` ```C++```
 
-![Captura de Pantalla 1](screenshots/screenshot1.png)
+![Desarrollo de Aplicaciones](desarrollo.jpg)
 
 > [!NOTE]
 > Estudiante activo
