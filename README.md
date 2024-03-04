@@ -1,5 +1,5 @@
 ## Maria Salazar
-Desarrollo de aplicaciones
+*Desarrollo de aplicaciones*
 ---
 
 ### CONTACTO
