@@ -13,4 +13,5 @@ TextoTextoTextoTextoTextoTextoTextoTexto
 
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 
-Gracias por tu interés en contribuir a nuestro proyecto! Esperamos con ansias tus aportes.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
