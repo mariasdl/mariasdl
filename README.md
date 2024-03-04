@@ -14,4 +14,4 @@ TextoTextoTextoTextoTextoTextoTextoTexto
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Contacto en Telegram[t.me/mariasdl]
