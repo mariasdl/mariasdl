@@ -4,7 +4,6 @@
 **Contacto por mensajería**
 TextoTextoTextoTextoTextoTextoTextoTexto
 
-**Habilidades Necesarias:**
 - Desarrollo Frontend (HTML, CSS, JavaScript)
 - Experiencia en Control de Versiones (Git)
 - Programación Nivel Junior | ```Java```
