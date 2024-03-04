@@ -12,4 +12,4 @@ TextoTextoTextoTextoTextoTextoTextoTexto
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 
 > [!NOTE]
-> Contacto en Telegram[t.me/mariasdl]
+> Estudiante de programación
