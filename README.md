@@ -1,7 +1,6 @@
 ## Maria Salazar
 
 ### CONTACTO
-[Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl)
 
 - Desarrollo Frontend (HTML, CSS, JavaScript)
 - Experiencia en Control de Versiones (Git)
@@ -10,4 +9,4 @@
 ![Captura de Pantalla 1](screenshots/screenshot1.png)
 
 > [!NOTE]
-> Estudiante activo
+> [Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl)
