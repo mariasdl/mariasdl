@@ -6,6 +6,3 @@
 
 > [!NOTE]
 > Estudiante activo
-
-
-![Desarrollo de Aplicaciones](https://static.vecteezy.com/system/resources/thumbnails/019/518/320/small_2x/programming-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg)
