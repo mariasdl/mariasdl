@@ -8,4 +8,4 @@
 > Estudiante activo
 
 
-![Desarrollo de Aplicaciones](https://appetiser.com.au/wp-content/uploads/2020/11/What-to-Ask-When-Looking-for-an-App-Developer.png)
+![Desarrollo de Aplicaciones](https://static.vecteezy.com/system/resources/thumbnails/019/518/320/small_2x/programming-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg)
