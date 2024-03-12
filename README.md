@@ -2,7 +2,7 @@
 [Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl) | [Github](https://github.com/mariasdl)
 
 - Desarrollo Frontend (HTML, CSS, JavaScript)
-- Programación Nivel Newbie/Junior | ```Java```
+- Programación | ```Java```
 
 > [!NOTE]
 > Estudiante activo
