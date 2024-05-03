@@ -1,5 +1,5 @@
 ## Maria Salazar
-[Telegram](t.me/mariasdl) | [Linkedin](linkedin.com/in/mariasdl) | [Github](https://github.com/mariasdl)
+[Telegram](https://t.me/mariasdl) | [Linkedin](https://linkedin.com/in/mariasdl) | [Github](https://github.com/mariasdl)
 
 - Desarrollo Web (HTML, CSS, JavaScript)
 - Programación | ```Java``` ```Arduino (C++)```
