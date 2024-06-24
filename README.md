@@ -2,7 +2,7 @@
 [Telegram](https://t.me/mariasdl) | [Linkedin](https://linkedin.com/in/mariasdl) | [Github](https://github.com/mariasdl)
 
 - Desarrollo Web (HTML, CSS, JavaScript)
-- Programación | ```Java``` ```C++``` ```Arduino``` ```C#```
+- Programación | ```Java``` ```C++``` ```Arduino``` 
 
 > [!NOTE]
 > Estudiante activo
